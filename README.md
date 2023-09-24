@@ -12,7 +12,7 @@ Além dos requestios acima, tomei a liberdade de adicionar métodos extras para 
 5. Criar Cliente e Conta
 6. Mostrar Clientes
 7. Sair
-
+<div></div>
 Ao final vários pequenos detalhes para melhor usabilidade e entendimento da aplicação foram aplicadas, como o padrão da moeda BRL, o uso apenas do CPF para o cliente identificar sua conta entre outras funcionalidades.
 Apesar de ser uma aplicação simples, utilizei todos os conhecimento que possuo sobre Objeto, métodos etc.
 Obrigado por Ler.
